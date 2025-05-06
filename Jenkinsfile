@@ -26,7 +26,7 @@ pipeline {
                 cd myapp
                 . venv/bin/activate
                 python3 hello.py
-                python3 hello.py --name=qhuytran
+                python3 hello.py --name=qhuy
                 '''
             }
         }
